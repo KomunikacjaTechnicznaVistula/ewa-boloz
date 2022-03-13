@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project basedir="C:\Program Files\Oxygen XML Editor 24\frameworks\dita\DITA-OT3.x\plugins\com.oxygenxml.webhelp.responsive\templates\orange" name="Copy template resources" default="copy-template-resources">
+    <target name="copy-template-resources">
+        <mkdir dir="C:\Users\Filip\Desktop\cwiczenie\ewa-boloz\docs\oxygen-webhelp\template"/>
+        <copy todir="C:\Users\Filip\Desktop\cwiczenie\ewa-boloz\docs\oxygen-webhelp\template" overwrite="yes" failonerror="yes" verbose="yes">
+            <fileset dir=".">
+                <include name="orange.css"/>
+            </fileset>
+            <fileset dir=".">
+                <include name="notes.css"/>
+            </fileset>
+            <fileset dir=".">
+                <include name="resources/**/*"/>
+                <exclude name="resources/**/*.svn"/>
+                <exclude name="resources/**/*.git"/>
+            </fileset>
+        </copy>
+    </target>
+</project>
