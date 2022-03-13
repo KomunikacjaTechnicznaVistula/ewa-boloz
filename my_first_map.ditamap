@@ -36,6 +36,14 @@
                 <topicref href="Topics/c_my_first_topic.dita"/>
             </relcell>
         </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="Topics/c_my_first_topic.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="Topics/t_my_second_task.dita"/>
+            </relcell>
+        </relrow>
     </reltable>
 
 </map>
