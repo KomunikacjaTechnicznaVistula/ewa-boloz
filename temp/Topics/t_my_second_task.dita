@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Filip\Desktop\cwiczenie\ewa-boloz\temp\Topics?><?workdir-uri file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/temp/Topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="t_my_second_task" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_my_second_task.dita" xtrc="task:1;3:29" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_my_second_task.dita" xtrc="title:1;4:12">my second task</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_my_second_task.dita" xtrc="shortdesc:1;5:16">This is short description of task</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_my_second_task.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_my_second_task.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_my_second_task.dita" xtrc="p:1;8:16">This is my second task.</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_my_second_task.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_my_second_task.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_my_second_task.dita" xtrc="cmd:1;12:22">Take sth.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_my_second_task.dita" xtrc="step:2;14:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_my_second_task.dita" xtrc="cmd:2;15:22">Do sth.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_my_second_task.dita" xtrc="step:3;17:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/t_my_second_task.dita" xtrc="cmd:3;18:22">Finish sth.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool " xtrc="topicref:13;44:64" xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/my_first_map.ditamap"><link class="- topic/link " format="dita" href="../Topics/c_my_first_topic.dita" mapclass="- map/topicref " role="friend" scope="local" type="concept" xtrc="topicref:12;41:64" xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/my_first_map.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>My first Topic</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">This is my short description.</desc></link></linkpool></related-links></task>

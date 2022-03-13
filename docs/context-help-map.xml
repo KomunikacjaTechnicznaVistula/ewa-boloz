@@ -3,10 +3,13 @@
    <appContext helpID="my_first_topic" path="Topics/c_my_first_topic.html"/>
    <appContext helpID="r_my_first_reference" path="Topics/r_my_first_reference.html"/>
    <appContext helpID="t_my_first_task" path="Topics/t_my_first_task.html"/>
+   <appContext helpID="t_my_second_task" path="Topics/t_my_second_task.html"/>
    <appContext helpID="my_first_topic" path="Topics/c_my_first_topic.html"/>
    <appContext helpID="t_my_first_task" path="Topics/t_my_first_task.html"/>
    <appContext helpID="r_my_first_reference" path="Topics/r_my_first_reference.html"/>
    <appContext helpID="t_my_first_task" path="Topics/t_my_first_task.html"/>
    <appContext helpID="r_my_first_reference" path="Topics/r_my_first_reference.html"/>
    <appContext helpID="my_first_topic" path="Topics/c_my_first_topic.html"/>
+   <appContext helpID="my_first_topic" path="Topics/c_my_first_topic.html"/>
+   <appContext helpID="t_my_second_task" path="Topics/t_my_second_task.html"/>
 </map>

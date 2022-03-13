@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>Topics/c_my_first_topic.html</loc>
-      <lastmod>2022-03-13T10:56:31Z</lastmod>
+      <lastmod>2022-03-13T11:21:12Z</lastmod>
    </url>
    <url>
       <loc>Topics/r_my_first_reference.html</loc>
-      <lastmod>2022-03-13T10:56:31Z</lastmod>
+      <lastmod>2022-03-13T11:21:12Z</lastmod>
    </url>
    <url>
       <loc>Topics/t_my_first_task.html</loc>
-      <lastmod>2022-03-13T10:56:31Z</lastmod>
+      <lastmod>2022-03-13T11:21:12Z</lastmod>
+   </url>
+   <url>
+      <loc>Topics/t_my_second_task.html</loc>
+      <lastmod>2022-03-13T11:21:12Z</lastmod>
    </url>
 </urlset>
