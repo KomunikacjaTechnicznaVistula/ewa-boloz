@@ -10,6 +10,7 @@
     <topicref href="Topics/c_my_first_topic.dita"/>
     <topicref href="Topics/r_my_first_reference.dita"/>
     <topicref href="Topics/t_my_first_task.dita"/>
+    <topicref href="Topics/t_my_second_task.dita"/>
     <reltable>
         <relrow>
             <relcell>
