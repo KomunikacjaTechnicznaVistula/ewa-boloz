@@ -50,7 +50,7 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>${pd}/output</String>
+                                    <String>${pd}/docs</String>
                                 </field>
                                 <field name="tempDir">
                                     <String>${pd}/temp</String>
@@ -234,7 +234,7 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>${pd}/output</String>
+                                    <String>${pd}/docs</String>
                                 </field>
                                 <field name="tempDir">
                                     <String>${pd}/temp</String>
