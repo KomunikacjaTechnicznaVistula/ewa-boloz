@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_my_second_task">
+    <title>my second task</title>
+    <shortdesc>This is short description of task</shortdesc>
+    <taskbody>
+        <context>
+            <p>This is my second task.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Take sth.</cmd>
+            </step>
+            <step>
+                <cmd>Do sth.</cmd>
+            </step>
+            <step>
+                <cmd>Finish sth.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
