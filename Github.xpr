@@ -10,6 +10,29 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>Topics/t_my_third_task.dita</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>PDF (CSS Formatter - HTML5)</String>
+                                        <String>WebHelp Responsive</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>my_first_map.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
