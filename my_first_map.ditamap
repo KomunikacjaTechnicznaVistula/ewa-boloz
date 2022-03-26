@@ -7,10 +7,19 @@
             <author>Ewa Bołoz</author>
         </topicmeta>
     </topicref>
-    <topicref href="Topics/c_my_first_topic.dita"/>
     <topicref href="Topics/r_my_first_reference.dita"/>
     <topicref href="Topics/t_my_first_task.dita"/>
     <topicref href="Topics/t_my_second_task.dita"/>
+    <topicref href="Topics/t_my_third_task.dita"/>
+    <topicref href="Topics/t_my_fourth_task.dita"/>
+    <topicref href="Topics/t_my_fifth_task.dita"/>
+    <topicref href="Topics/t_my_sixth_task.dita"/>
+    <topicref href="Topics/t_my_seventh_task.dita"/>
+    <topicref href="Topics/t_my_eighth_task.dita"/>
+    <topicref href="Topics/t_my_ninth_task.dita"/>
+    <topicref href="Topics/t_my_tenth_task.dita"/>
+    <topicref href="Topics/my_eleventh_task.dita"/>
+    <topicref href="Topics/t_my_tvelfth_task.dita"/>
     <reltable>
         <relrow>
             <relcell>
@@ -42,6 +51,22 @@
             </relcell>
             <relcell>
                 <topicref href="Topics/t_my_second_task.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="Topics/c_my_first_topic.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="Topics/t_my_third_task.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="Topics/c_my_first_topic.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="Topics/t_my_fourth_task.dita"/>
             </relcell>
         </relrow>
     </reltable>
