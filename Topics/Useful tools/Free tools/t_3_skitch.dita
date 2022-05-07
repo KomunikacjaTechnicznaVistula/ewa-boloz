@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_3_skitch">
+    <title>Skitch</title>
+    <shortdesc/>
+    <taskbody>
+        <context id="context_vns_frb_ltb">
+            <p>Skitch is a screen capture tool developed by EverNote for Mac and Windows. It is a
+                quick image capture and annotation tool. This freehand tool helps to mark areas
+                while Pixelate tool blurs any user-specified area such as special number, cost,
+                license number, etc.</p>
+            <p><b>Key Features:</b></p>
+            <ul id="ul_apq_jsb_ltb">
+                <li>Skitch is a free tool available for both Mac and Windows.</li>
+                <li>Using Skitch tool a user can highlight any particular section or area and can
+                    also add comments on the captured image.</li>
+                <li>Its simple to use with a user-friendly interface.</li>
+                <li>It is also available on mobile platforms such as Android and iOS.</li>
+                <li>A user can also use Skitch for annotating photograph directly from the camera
+                    using arrows, colored pen highlighters, etc.</li>
+                <li>The captured image can be directly uploaded or attached to an email
+                    message.</li>
+                <li>All editing options are available under one menu which helps to find the tool
+                    easily.</li>
+            </ul>
+        </context>
+    </taskbody>
+</task>

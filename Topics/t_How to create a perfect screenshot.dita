@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_my_second_task">
+    <title>How to create a perfect screenshot</title>
+    <shortdesc>Go through some fundamental steps to make sure your screenshots look the best way
+        possible. Find out what will be the best format, size, layout and how to edit your
+        images.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Let’s go through some fundamental steps to make sure your screenshots look the best
+                way possible.</p>
+        </context>
+    </taskbody>
+</task>

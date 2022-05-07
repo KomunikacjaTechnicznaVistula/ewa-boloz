@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept id="my_first_topic">
+
+    <title>Welcome</title>
+    <shortdesc>The main idea behind this project is to show you how to create great informative
+        screenshots that will save you and your readers a lot of time and learning
+        efforts.</shortdesc>
+    <conbody>
+        <p>A picture is worth a thousand words. We all take pictures of our screen from time to time
+            because it is often the fastest way to show and explain something. </p>
+        <p>But, when making screenshots is part of your working process - this is a totally
+            different thing. Taking good quality pictures for documentation is not always easy. You
+            have to think about many things when making screenshots - image size, image quality,
+            information privacy, text readability… </p>
+        <p>The main idea behind this project is to show you how to create great informative
+            screenshots that will save you and your readers a lot of time and learning efforts.</p>
+        <image placement="break" href="../Images/welcome.png" width="500" align="right"
+            id="image_hnz_sqw_ktb"/>
+    </conbody>
+</concept>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how_to_7_text_in_figures">
+    <title>Text in figures</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p> In most cases, avoid embedding explanatory text in screenshot graphics; text that's
+                incorporated into a graphic hurts accessibility and searchability, and increases
+                localization costs if figures are localized. If you must embed text in an image,
+                then be sure to also provide the same information in a form that people with visual
+                disabilities can use, such as a figure description.</p>
+            <p>When you must include text in figures and images, use the following guidelines:</p>
+            <ul id="ul_bp1_mtz_htb">
+                <li>Keep text brief, avoid complete sentences and punctuation when possible.</li>
+                <li>Don't embed figure descriptions or captions in the figure or image. Instead, put
+                    figure descriptions and captions in text following the figure.</li>
+                <li>Don't create new abbreviations to condense text.</li>
+                <li>Use sentence case.</li>
+                <li>Use numbered callouts in figures to help you write a figure description, but
+                    don't use callouts for detailed annotations.</li>
+                <li>Use full trademarked product names.</li>
+            </ul>
+        </context>
+    </taskbody>
+</task>

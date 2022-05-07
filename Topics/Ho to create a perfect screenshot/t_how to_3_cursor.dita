@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_my_sixth_task">
+    <title>Cursor</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>Make sure your mouse cursor is not visible in your screenshots. The best way to hide
+                the cursor is to choose a screenshot app that turns your cursor into a frame-drawing
+                tool. In that case, there will be no visible pointer on the screen. If you use a
+                standard shortcut, the cursor will most likely appear in the shot.</p>
+        </context>
+    </taskbody>
+</task>

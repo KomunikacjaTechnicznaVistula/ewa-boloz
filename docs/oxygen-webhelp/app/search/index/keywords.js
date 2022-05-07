@@ -1,0 +1,53 @@
+define(function() {var keywords=[{w:"Free",p:["p0"]},{w:"tools",p:["p0","p1","p8","p43"]},{w:"Paid",p:["p1"]},{w:"Welcome",p:["p2"]},{w:"How",p:["p3","p21"]},{w:"to",p:["p3","p20","p21"]},{w:"create",p:["p3","p21"]},{w:"a",p:["p3","p4","p15"]},{w:"perfect",p:["p3"]},{w:"screenshot",p:["p3"]},{w:"Do",p:["p4"]},{w:"you",p:["p4"]},{w:"really",p:["p4"]},{w:"need",p:["p4"]},{w:"screenshot?",p:["p4"]},{w:"Simplified",p:["p5"]},{w:"User",p:["p5"]},{w:"Interface",p:["p5"]},{w:"Terminology",p:["p6"]},{w:"Think",p:["p7"]},{w:"about",p:["p7"]},{w:"privacy",p:["p7"]},{w:"Useful",p:["p8","p43"]},{w:"(free",p:["p8"]},{w:"and",p:["p8"]},{w:"paid)",p:["p8"]},{w:"Size",p:["p9"]},{w:"Keep",p:["p10"]},{w:"originals",p:["p10"]},{w:"Format",p:["p11"]},{w:"Cursor",p:["p12"]},{w:"Editing",p:["p13"]},{w:"Graphic",p:["p14"]},{w:"elements",p:["p14"]},{w:"on",p:["p14","p15"]},{w:"screenshots",p:["p14","p45"]},{w:"Layout",p:["p15"]},{w:"of",p:["p15"]},{w:"images",p:["p15","p17"]},{w:"page",p:["p15"]},{w:"Text",p:["p16","p17"]},{w:"in",p:["p16"]},{w:"figures",p:["p16"]},{w:"associated",p:["p17"]},{w:"with",p:["p17"]},{w:"Picture",p:["p18"]},{w:"filenames",p:["p18"]},{w:"What",p:["p19","p22","p23"]},{w:"is",p:["p19","p22","p23"]},{w:"SUI?",p:["p19","p21"]},{w:"Why",p:["p20"]},{w:"use",p:["p20"]},{w:"it?",p:["p20"]},{w:"PII?",p:["p22"]},{w:"SPII?",p:["p23"]},{w:"Snipping",p:["p24"]},{w:"Tool",p:["p24"]},{w:"Jing",p:["p25"]},{w:"Skitch",p:["p26"]},{w:"Snagit",p:["p27"]},{w:"Screenpresso",p:["p28"]},{w:"FastStone",p:["p29"]},{w:"Capture",p:["p29"]},{w:"Wondershare",p:["p30"]},{w:"DemoCreator",p:["p30"]},{w:"My",p:["p31","p32","p33","p34","p35","p36","p37","p38","p39","p40","p41","p42"]},{w:"eleventh",p:["p31"]},{w:"task",p:["p31","p32","p33","p34","p36","p37","p38","p39","p40","p41","p42"]},{w:"eighth",p:["p32"]},{w:"fifth",p:["p33"]},{w:"first",p:["p34"]},{w:"fourth",p:["p35"]},{w:"taks",p:["p35"]},{w:"ninth",p:["p36"]},{w:"second",p:["p37"]},{w:"seventh",p:["p38"]},{w:"sixth",p:["p39"]},{w:"tenth",p:["p40"]},{w:"third",p:["p41"]},{w:"tvelfth",p:["p42"]},{w:"Context",p:["p44"]},{w:"Sensitive",p:["p44"]},{w:"Help",p:["p44"]},{w:"best",p:["p45"]},{w:"practices",p:["p45"]}];
+var ph={};
+ph["p0"]=[0, 1];
+ph["p1"]=[2, 1];
+ph["p2"]=[3];
+ph["p3"]=[4, 5, 6, 7, 8, 9];
+ph["p4"]=[10, 11, 12, 13, 7, 14];
+ph["p5"]=[15, 16, 17];
+ph["p6"]=[18];
+ph["p7"]=[19, 20, 21];
+ph["p8"]=[22, 1, 23, 24, 25];
+ph["p9"]=[26];
+ph["p30"]=[63, 64];
+ph["p10"]=[27, 28];
+ph["p32"]=[65, 68, 67];
+ph["p31"]=[65, 66, 67];
+ph["p12"]=[30];
+ph["p34"]=[65, 70, 67];
+ph["p11"]=[29];
+ph["p33"]=[65, 69, 67];
+ph["p14"]=[32, 33, 34, 35];
+ph["p36"]=[65, 73, 67];
+ph["p13"]=[31];
+ph["p35"]=[65, 71, 72];
+ph["p16"]=[40, 41, 42];
+ph["p38"]=[65, 75, 67];
+ph["p15"]=[36, 37, 38, 34, 7, 39];
+ph["p37"]=[65, 74, 67];
+ph["p18"]=[45, 46];
+ph["p17"]=[40, 43, 44, 38];
+ph["p39"]=[65, 76, 67];
+ph["p19"]=[47, 48, 49];
+ph["p41"]=[65, 78, 67];
+ph["p40"]=[65, 77, 67];
+ph["p21"]=[4, 5, 6, 49];
+ph["p43"]=[22, 1];
+ph["p20"]=[50, 5, 51, 52];
+ph["p42"]=[65, 79, 67];
+ph["p23"]=[47, 48, 54];
+ph["p45"]=[35, 83, 84];
+ph["p22"]=[47, 48, 53];
+ph["p44"]=[80, 81, 82];
+ph["p25"]=[57];
+ph["p24"]=[55, 56];
+ph["p27"]=[59];
+ph["p26"]=[58];
+ph["p29"]=[61, 62];
+ph["p28"]=[60];
+     return {
+         keywords: keywords,
+         ph: ph
+     }
+});

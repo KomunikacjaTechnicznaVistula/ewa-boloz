@@ -1,0 +1,74 @@
+<!DOCTYPE html><html xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_8_text_associated_with_images.dita" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><meta charset="UTF-8"/><meta name="copyright" content="(C) Copyright 2022"/><meta name="DC.rights.owner" content="(C) Copyright 2022"/>
+<link rel="stylesheet" type="text/css" href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css"/>
+<link rel="stylesheet" type="text/css" href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css"/>
+<link rel="stylesheet" type="text/css" href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css"/>
+<link rel="stylesheet" type="text/css" href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/ashes-with-colors.css"/>
+<link rel="stylesheet" type="text/css" href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/notes.css"/>
+<meta name="generator" content="DITA-OT"/><meta name="DC.type" content="task"/><meta name="description" content=""/><meta name="DC.format" content="HTML5"/><meta name="DC.identifier" content="t_how_to_8_text_associated_with_images"/><meta name="DC.language" content="en"/><title>Text associated with images</title></head><body class="wh_topic_page"><div class="wh_content_area"><div class="wh_topic_body"><div class="wh_topic_content"><div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic task/task topic task" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="t_how_to_8_text_associated_with_images" specializations="@props/deliveryTarget" xml:lang="en" lang="en">
+    <h1 class="- topic/title title topictitle1" id="ariaid-title1"><span class="- topic/ph topic/title-wrapper ph title-wrapper">Text associated with images</span></h1>
+    
+    <div class="- topic/body task/taskbody body taskbody"><p class="- topic/shortdesc shortdesc"></p>
+        <section class="- topic/section task/context section context">
+            <div class="- topic/p p">
+                <div class="- topic/note note note note_note" id="note_n2f_5tz_htb"><span class="note__title">Note:</span> This article will be helpful if you are using HTML or
+                    XML.</div>
+            </div>
+            <ul class="- topic/ul ul" id="ul_dbw_5tz_htb">
+                <li class="- topic/li li">✅ Always introduce an image with a complete introductory sentence. You don't need
+                    to introduce screenshots that immediately follow procedural text that describes
+                    a UI.</li>
+                <li class="- topic/li li">Use an alt attribute to provide a text alternative for the image in context. Alt
+                    text is used by assistive technologies, such as screen readers, and might appear
+                    if the image cannot load. However, if the image is decorative (not informative)
+                    or it's provided only as a visual aid for information that is already expressed
+                    in text, then provide empty alternative text (alt="") so it will be ignored by
+                    assistive technologies. The presence of alt attributes helps support <a class="- topic/xref xref" format="html" href="https://web.dev/labels-and-text-alternatives/#include-text-alternatives-for-images-and-objects" scope="external" target="_blank" rel="external noopener">navigability</a> in screen readers, <a class="- topic/xref xref" format="html" href="https://validator.w3.org/docs/help.html#validation_basics" scope="external" target="_blank" rel="external noopener">markup validation</a>, and <a class="- topic/xref xref" format="html" href="https://developers.google.com/search/docs/beginner/seo-starter-guide?visit_id=637863888544864638-3583771652&amp;rd=1#usealtattribute" scope="external" target="_blank" rel="external noopener">search engine optimization</a>.</li>
+                <li class="- topic/li li">Consider the following when writing alt text:<ul class="- topic/ul ul" id="ul_gyt_d5z_htb">
+                        <li class="- topic/li li">Don't include phrases like Image of or Photo of.</li>
+                        <li class="- topic/li li">Include punctuation. When screen readers encounter punctuation, they
+                            pause before continuing.</li>
+                        <li class="- topic/li li">Use consistent alt text for repeated instances of an image, such as
+                            controls, status indicators, or icons that appear multiple times in your
+                            document.</li>
+                        <li class="- topic/li li">When possible, avoid using all-caps in alt text. Some screen readers
+                            read capital letters as each letter individually.</li>
+                        <li class="- topic/li li">Introduce diagrams in the text, not in the alt text.</li>
+                        <li class="- topic/li li">Don't use figure captions to replace alt text.</li>
+                        <li class="- topic/li li">Use full sentences.</li>
+                        <li class="- topic/li li">Write short, descriptive alt text in 155 characters or less.</li>
+                        <li class="- topic/li li">If the image presents more useful information than you can fit in the
+                            155 character limit, include a brief summary of the image in the alt
+                            attribute and also include the longdesc attribute to link to a more
+                            extensive description of the image. The longdesc attribute value should
+                            be a link, not text.</li>
+                        <li class="- topic/li li">Alt text should consider the context of the image, not just its
+                            content.</li>
+                    </ul></li>
+                <li class="- topic/li li"> Figure captions are concise and comprehensive summaries of a figure or
+                        image:<ul class="- topic/ul ul" id="ul_rqd_2xz_htb">
+                        <li class="- topic/li li">Use the form "&lt;b&gt;Figure <strong class="+ topic/ph hi-d/b ph b">NUMBER</strong>.&lt;/b&gt;
+                            <strong class="+ topic/ph hi-d/b ph b">DESCRIPTION</strong>".</li>
+                        <li class="- topic/li li">Use punctuation in figure captions.</li>
+                        <li class="- topic/li li">When you refer to a figure, don't use spatial descriptions such as "the
+                            image below." Instead, mention it by number. For example: "... as shown
+                            in figure 1." Don't capitalize the word <strong class="+ topic/ph hi-d/b ph b">figure</strong> in a reference to
+                            a figure, except at the start of a sentence.</li>
+                        <li class="- topic/li li">Don't include the figure caption in a sentence referencing the
+                            figure.</li>
+                    </ul></li>
+                <li class="- topic/li li">A figure description is text that provides a more detailed explanation of
+                    information represented by a figure. Any new information should be conveyed
+                    through text, and not introduced in a figure or image.</li>
+                <li class="- topic/li li">The figure description should not be confused with the longdesc attribute, which
+                    can be used to provide a more lengthy description of the content and context of
+                    an image than can be conveyed in the alt attribute's recommended 155 character
+                        limit:<ul class="- topic/ul ul" id="ul_q3k_mxz_htb">
+                        <li class="- topic/li li">Create a text that conveys the same information as the figure.</li>
+                        <li class="- topic/li li">Use when a figure caption doesn't convey the purpose or complete
+                            information of the figure.</li>
+                        <li class="- topic/li li">Use punctuation in figure descriptions.</li>
+                    </ul></li>
+            </ul>
+        </section>
+    </div>
+</div></div></div></div></body></html>

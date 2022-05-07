@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how_to_6_layout_of_images">
+    <title>Layout of images on a page</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <ul id="ul_vxk_zjz_htb">
+                <li>Don't try to place an image manually; for example, don't use a style attribute
+                    or other workarounds to control the image's left/right justification or the
+                    margins around the image. Instead, for example, use your site's standard CSS
+                    image styles.</li>
+                <li>Don't make your image too small. It's fine for an image to take up the full
+                    width of a page.</li>
+                <li>Consider how the image will look when printed out.</li>
+                <li>Don't use an image that's wider than the column it appears in.</li>
+                <li>Screenshots at full resolution often take up too much space on the page, so you
+                    may have to resize them.</li>
+                <li>Don't center the image on the page.</li>
+                <li>If you are using HTML don't put the &lt;img> inside a &lt;p>.</li>
+            </ul>
+        </context>
+    </taskbody>
+</task>

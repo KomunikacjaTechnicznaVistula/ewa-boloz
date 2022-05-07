@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_think_about_2_what_is_spii">
+    <title> What is SPII?</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>It is Sensitive Personally Identifiable Information (SPII): A subset of PII that is
+                subject to heightened legal requirements or presents a significant risk or harm to
+                an individual if it is compromised or misused. </p>
+            <p>Sometimes even anonymizing SPII may not eliminate this risk of harm. </p>
+            <p><b>The following basic guidelines apply to classifying data as SPII:</b></p>
+            <ul id="ul_rv1_hk5_ktb">
+                <li>Account Credentials: non-public information used to log in, authenticate, or
+                    authorize activity as a particular individual</li>
+                <li>Cardholder Data (CHD)</li>
+                <li>Healthcare Information</li>
+                <li>Bank account number</li>
+                <li>Credit card number (the first six (6) digits of the card number, if stored or
+                    processed in isolation, are not considered SPII)</li>
+                <li>Passwords, passphrases, and PINs</li>
+                <li>Cryptographic keys or authentication code</li>
+                <li>Data that would permit account access or recovery (e.g., user-selected secret
+                    questions and answers, account creation date)</li>
+                <li>Biometrics or DNA data</li>
+                <li>Session cookies (when used for authentication)</li>
+                <li>Government Identification Numbers, such as SSN</li>
+                <li>Financial account data, such as account numbers</li>
+                <li>Sensitive Background Information, such as ethnicity, political affiliation,
+                    sexual orientation, or religious affiliation, etc.</li>
+            </ul>
+        </context>
+    </taskbody>
+</task>

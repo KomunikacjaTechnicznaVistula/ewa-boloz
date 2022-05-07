@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_snagit">
+    <title>          Snagit</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p><xref href="https://www.techsmith.com/screen-capture.html" format="html"
+                    scope="external"><b>Snagit</b></xref> is a product of TechSmith Software
+                Company. A user can add comments on the captured screenshot using arrows, shapes,
+                etc. It has built-in advanced image edition options and screen recording
+                facility.</p>
+            <p><b>Key Features</b>:</p>
+            <ul id="ul_i5k_c3x_ktb">
+                <li>It has a preview window which shows the zoomed image of the area on which the
+                    cursor is hovering,</li>
+                <li>Images are editable in terms of size, special effects, etc.</li>
+                <li>A quick toolbar speeds-up the screen capture process.</li>
+                <li>Snagit supports Windows and Mac Operating Systems.</li>
+                <li>Snagit is available in various languages like English, Japanese, Korean and
+                    German.</li>
+                <li>It is also used to record a video of the screen and easily share it across the
+                    web or email.</li>
+                <li>It takes a full-page, scrolling screenshot and captures vertical &amp;
+                    horizontal scrolls.</li>
+            </ul>
+        </context>
+    </taskbody>
+</task>

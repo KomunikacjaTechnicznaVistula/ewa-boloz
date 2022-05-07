@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_my_ninth_task">
+    <title>Graphic elements on screenshots</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>This may seem like a no-brainer, but adding arrows, numbers or other markings to your
+                screenshots can make them more engaging. Make it obvious which details are important
+                and require the user’s attention. Use bright colors to point out important parts so
+                that readers don’t have to peer at your screenshot to understand what button they
+                need to click or what link they need to follow.</p>
+            <ul id="ul_axn_5hz_htb">
+                <li>Pointing arrows at an object or circling it works best. Pick a color that would
+                    stand out from the rest of the image. Choosing the color from the user interface
+                    palette will make it not visible.<image placement="break"
+                        href="../../Images/markup_tools_1.png" width="250" align="left"
+                        id="image_b32_wfv_ktb">
+                        <alt/>
+                    </image></li>
+                <li>Stick to the same color and shape of the mark-up tool — this will keep your
+                    marks and notes easily recognizable and the overall style consistent. </li>
+                <li>Pay attention to proportion and symmetry.</li>
+                <li>An alternative way of focusing attention on an element is zooming it in. That
+                    works great especially with large screenshots crowded with small details.<image
+                        placement="break" href="../../Images/markup_tools_2.png" width="250"
+                        align="left" id="image_ipd_dgv_ktb">
+                        <alt/>
+                    </image></li>
+                <li>Another useful technique is the highlight, which is supported by some screenshot
+                    tools. This is what it may look like:<image placement="break"
+                        href="../../Images/markup_tools_3.png" width="400" align="left"
+                        id="image_xnz_2gv_ktb">
+                        <alt>Selected part of the user interface is highlighted in light yellow to
+                            get the user's attention. </alt>
+                    </image></li>
+                <li>You can also add some step numbers on the screenshot:<image placement="break"
+                        href="../../Images/markup_tools_4.png" width="400" align="left"
+                        id="image_x5n_ggv_ktb">
+                        <alt>The numbers are added to some parts of the image to determine the
+                            sequence of steps.</alt>
+                    </image></li>
+            </ul>
+        </context>
+    </taskbody>
+</task>

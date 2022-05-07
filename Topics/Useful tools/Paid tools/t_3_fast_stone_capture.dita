@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_3_passfab_screen_recorder">
+    <title>          FastStone Capture</title>
+    <shortdesc/>
+    <taskbody>
+        <context id="context_kcd_xqb_ltb">
+            <p><xref href="https://www.faststone.org/index.htm" format="html" scope="external"
+                    >FastStone Capture</xref> is a screen capture tool, which easily captures the
+                entire screen in various forms such as rectangular, fixed region defined by the
+                user, etc. The captured images can be sent to printer, clipboard, and email. The
+                captured images can be uploaded to social media sites or any other website.</p>
+            <p><b>Key Features:</b></p>
+            <ul id="ul_mmj_trb_ltb">
+                <li>For lifetime licenses, the cost is only $19.95.</li>
+                <li>It is a quick, lightweight, powerful and extremely responsive tool.</li>
+                <li>FastStone Capture allows for Resizing, cropping, sharpening and watermarking the
+                    captured images.</li>
+                <li>It captures multiple windows, multi-level menus, etc.</li>
+                <li>It saves captured snapshots in BMP, GIF, JPEG, PNG, TIFF and PDF formats.</li>
+                <li>It can be run from removable drive such as iPod, USB Flash drive, etc.</li>
+                <li>It has a built-in screen recorder which saves video files in .WMV format.</li>
+                <li>It has built-in color picker for color sampling.</li>
+                <li>Screen capture tool can be instantly activated using global hotkeys.</li>
+                <li>FastStone Capture allows the user to join or combine images to convert into a
+                    single image file.</li>
+            </ul>
+        </context>
+    </taskbody>
+</task>

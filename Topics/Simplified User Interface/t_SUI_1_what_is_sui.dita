@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="SUI_1_what_is_sui">
+    <title> What is SUI?</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>A simplified user interface (SUI) is a visual representation of a software interface
+                that removes unimportant elements and reduces them to simpler shapes.<simpletable
+                    frame="none" relcolwidth="1* 1*" id="simpletable_isf_3dv_ktb">
+                    <sthead>
+                        <stentry>normal interface </stentry>
+                        <stentry>simplified interface</stentry>
+                    </sthead>
+                    <strow>
+                        <stentry>
+                            <image placement="break" href="../../Images/user_interface_1.png"
+                                width="550" align="left" id="image_jsf_3dv_ktb">
+                                <alt/>
+                            </image>
+                        </stentry>
+                        <stentry>
+                            <image placement="break" href="../../Images/user_interface_2.png"
+                                width="550" align="left" id="image_ksf_3dv_ktb">
+                                <alt/>
+                            </image>
+                        </stentry>
+                    </strow>
+                    <strow/>
+                </simpletable></p>
+            <p>The elements that are fundamental to the instructions or for the user to understand
+                are purposefully kept visible and the SUI graphics serve as a visual aid to support
+                the instructional content given, via the sub- or figure text.</p>
+            <p>SUI graphics allow for easy-to-follow instructions which enable the reader to get to
+                the point quickly and to avoid distractions.</p>
+        </context>
+    </taskbody>
+</task>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_wondershare_democreator">
+    <title>          Screenpresso</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>Screenpresso is a screen capture tool which is helpful for training document,
+                evidence etc. It is a standard and simple screen capture tool. It captures the image
+                in various modes such as full screen, user-defined area, scrolling window capture,
+                etc.</p>
+            <p>Screenpresso allows the user to save captured images in various formats and also save
+                all recent capture history.</p>
+            <p><b>Key Features:</b></p>
+            <ul id="ul_dyk_tsb_ltb">
+                <li>Screenpresso is available in the free version as well as a premium version at a
+                    cost of €89 per user.</li>
+                <li>Screenpresso is a light-weight screen capture tool with a built-in image
+                    editor.</li>
+                <li>It highlights and edits the captured images with arrows, colorful bubbles, text
+                    boxes, ellipses etc.</li>
+                <li>It maintains the history of all captured images.</li>
+                <li>Captured images can be converted into PDF, Microsoft Word or HTML document using
+                    a document generator.</li>
+                <li>It also imports media files from other devices like iPhones etc.</li>
+                <li>Automatically publishes the images and videos to 13 online services.</li>
+                <li>Screenpresso is available in 19 languages.</li>
+                <li>It supports all 64-bit Windows versions such as Windows 7, Windows 8 and Windows
+                    10.</li>
+            </ul>
+        </context>
+    </taskbody>
+</task>

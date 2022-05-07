@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_do_you_really_need_a_screenshot">
+    <title>Do you really need a screenshot?</title>
+    <shortdesc>One of the common questions when developing documentation is, "How many screenshots
+        should I include?" Decide when to use screenshots in your documentation.</shortdesc>
+    <taskbody>
+        <context>
+            <p>One of the common questions when developing documentation is, "How many screenshots
+                should I include?" Answers range from "None!" to "All the screens!" A picture may be
+                worth a thousand words, but screenshots are often used as a crutch for poor
+                documentation or poor design. The best answer is to use them when you need them, and
+                don't use them when you don't. So how do you know when you need them?</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Screenshots are only important to the documentation if they add value to the
+                    material. If you have a task that is only about several steps long, and you
+                    included a screenshot every step of the way, it overflows the task and makes it
+                    look more difficult than it is.</cmd>
+            </step>
+            <step>
+                <cmd>Graphics takes time — sometimes it takes even longer to create persuasive
+                    visuals as it does to write instructions.</cmd>
+            </step>
+            <step>
+                <cmd>For some audiences, screenshots aren’t important. For example, you would not
+                    tell a developer how to use a mouse; in fact, they may find it insulting that
+                    you suggest they use a mouse at all. But if you are writing the content for
+                    basic users, they may find screenshots very useful.</cmd>
+            </step>
+            <step>
+                <cmd>You must have in mind that every time your document gets modified, screenshots
+                    must get updated. And if you used a lot of them, imagine the future task.</cmd>
+            </step>
+            <step>
+                <cmd>If you use too many screenshots, users may be overly attracted to the visual
+                    and miss important points in the explanatory text.</cmd>
+            </step>
+            <step>
+                <cmd>Screenshots will make your documentation bigger, for sure, but if they make the
+                    document better, no one will care about bigger.</cmd>
+            </step>
+            <step>
+                <cmd>Screenshots may be necessary when you are writing about very complicated
+                    configurations or systems.</cmd>
+            </step>
+        </steps>
+        <postreq id="postreq_kb4_w35_ktb">
+            <p><b>With all of the above in mind, when to use and when not to use images?</b></p>
+            <p>&#9989; Use screenshots for the following purposes:</p>
+            <ul id="ul_ipz_z35_ktb">
+                <li>to orient users in a complicated or long procedure</li>
+                <li>to show complex windows or dialog boxes, such as those that contain multiple
+                    subsets of information, with free-form text fields and many options available
+                    for selection</li>
+                <li>to emphasize a new feature or change in the UI</li>
+            </ul>
+            <p>&#10062; Do not create or use screenshots of the following items:</p>
+            <ul id="ul_g2k_2j5_ktb">
+                <li>code samples (instead, show code samples in code blocks)</li>
+                <li>dialog boxes that are easy to understand, such as drop-down lists and option
+                    buttons with few or no free-form text fields</li>
+                <li>confirmation boxes</li>
+                <li>license agreement boxes</li>
+                <li>message text (instead show message text within regular text)</li>
+                <li>progress bars</li>
+                <li>welcome windows</li>
+                <li>wizard pages, especially Welcome pages and other simple pages</li>
+                <li>tables created in another authoring tool</li>
+                <li>a screen that is volatile and likely to change frequently</li>
+            </ul>
+            <p>
+                <note id="note_rwv_fgp_ltb" type="notice">As an alternative to screenshots, use the
+                    correct names of the UI labels with which the user must interact and the values
+                    that they must choose or enter. Show the names of buttons, options, check boxes,
+                    menus, windows, dialog boxes, and so on as they appear on the UI. For example,
+                    for straightforward instructions like, “To open a file, select <b>File >
+                        Open</b>,” a screenshot is not required.</note>
+            </p>
+        </postreq>
+    </taskbody>
+</task>

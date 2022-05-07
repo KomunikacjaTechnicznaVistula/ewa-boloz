@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how_to_10_keep_originals">
+    <title> Keep originals</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <ul id="ul_icx_ydp_ltb">
+                <li>Some screenshots are published as-is, but often you want to improve their value
+                    with callouts, texts, and similar enhancements. Or you draw an illustration for
+                    your book.</li>
+                <li>To build documentation, you need to export it to a plain image format like PNG
+                    or SVG. However, you should keep the original artwork source format for future
+                    editing and localization. For example, keep <codeph>.pptx</codeph> of flowchart
+                    crafted in PowerPoint, <codeph>.ai</codeph> source file of Adobe Illustrator
+                    diagram, <codeph>.snag</codeph> for Snagit screenshots, etc.</li>
+                <li>Store (and version) these picture source files alongside with the docs. A good
+                    name for such a folder is <b>artwork</b> or <b>originals</b>.</li>
+            </ul>
+        </context>
+    </taskbody>
+</task>

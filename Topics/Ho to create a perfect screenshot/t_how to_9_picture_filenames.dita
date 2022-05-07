@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how_to_9_pictue_filenames">
+    <title> Picture filenames</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p> The filename is crucial for easy handling, organization, localization to other
+                languages. Good filename describes what is displayed in the picture. There is
+                nothing more annoying than working with images named as
+                    <codeph>image3712.jpg</codeph>. The good filename is, e.g.
+                    <codeph>web-browser-settings.png</codeph>,
+                    <codeph>disabled-save-button.png</codeph> etc.</p>
+            <p>If you write multilingual documentation, many (if not all) pictures need to be
+                language-specific. Adding language local code to the filename is a good idea. Somes
+                system, like Sphinx, have support of multilingual documentation and they recognize
+                locale-specific images with locale code in a filename. You have
+                    <codeph>save-button.png</codeph>, <codeph>save-button.he.png</codeph> and
+                    <codeph>save-button.de.png</codeph>. If you build docs for Hebrew (he), Sphinx
+                picks up <codeph>save-button.he.png</codeph>, for German (de)
+                    <codeph>save-button.de.png</codeph>, and <codeph>save-button.png</codeph> for
+                all other locales.</p>
+            <p>To prevent problems on case-sensitive platforms, always use lower-case in image
+                filenames. Even some web servers might tell 404 Not Found if you call in URL
+                “img/Save-Button.png” instead of “img/save-button.png”.</p>
+        </context>
+    </taskbody>
+</task>

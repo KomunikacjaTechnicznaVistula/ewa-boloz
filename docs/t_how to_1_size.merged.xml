@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/ashes-with-colors.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/notes.css'?>
+<?workdir /C:\Users\Filip\Desktop\-Screenshots-best-practices\temp\oxygen_dita_temp\Topics\Ho to create a perfect screenshot?><?workdir-uri file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/temp/oxygen_dita_temp/Topics/Ho%20to%20create%20a%20perfect%20screenshot/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="t_my_third_task" specializations="@props/deliveryTarget" xtrc="task:1;3:28" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/Ho%20to%20create%20a%20perfect%20screenshot/t_how%20to_1_size.dita" xml:lang="en">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Size</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <ul class="- topic/ul ">
+                <li class="- topic/li "> Don't make your image too small. It's fine for an image to take up the full
+                    width of a page. </li>
+                <li class="- topic/li "> Screenshots at full resolution often take up too much space on the page, so you
+                    may have to resize them. </li>
+                <li class="- topic/li "> In general, don't use an image that's wider than the column it appears in. </li>
+                <li class="- topic/li "> Consider how the image will look when printed out. </li>
+            </ul>
+            <image align="left" class="- topic/image " height="3" href="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/../../Images/line.png" id="image_ohd_vs2_ltb" placement="break" width="1300"/>
+        </context>
+    </taskbody>
+</task>

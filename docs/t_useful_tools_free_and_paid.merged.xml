@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/ashes-with-colors.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/notes.css'?>
+<?workdir /C:\Users\Filip\Desktop\-Screenshots-best-practices\temp\oxygen_dita_temp?><?workdir-uri file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/temp/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="t_useful_tools_free_and_paid" specializations="@props/deliveryTarget" xtrc="task:1;3:41" xtrf="file:/C:/Users/Filip/Desktop/-Screenshots-best-practices/Topics/t_useful_tools_free_and_paid.dita" xml:lang="en">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Useful tools (free and paid)</ph></title>
+    <shortdesc class="- topic/shortdesc ">With good screenshot software, it is easy to take screenshot and has built-in editor
+        for basic operations like cropping, drawing arrows, adding shapes and texts etc. Find a
+        proper screenshot tool for yourself.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Good screenshot software is an essential tech writer’s tool. With good screenshot
+                software, it is easy to take screenshot and has built-in editor for basic operations
+                like cropping, drawing arrows, adding shapes and texts etc. </p>
+            <p class="- topic/p ">There are several screen capture tools that are available in the market, which in
+                turn will help you to take a screenshot of the entire desktop or screen. These tools
+                may vary in features such as screenshot size, quality, supported operating system,
+                file format types, etc. </p>
+            <p class="- topic/p ">Below you can find a few free and paid tools, and their key features.</p>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Paid tools:</b></p>
+            <ul class="- topic/ul " id="ul_i1d_hqx_ktb">
+                <li class="- topic/li "><xref class="- topic/xref " format="dita" href="Useful%20tools/Paid%20tools/t_1_%20snagit.dita" type="task"><?ditaot usertext?>Snagit</xref></li>
+                <li class="- topic/li "><xref class="- topic/xref " format="dita" href="Useful%20tools/Paid%20tools/t_2_screenpresso.dita" type="task"><?ditaot usertext?>Screenpresso</xref></li>
+                <li class="- topic/li "><xref class="- topic/xref " format="dita" href="Useful%20tools/Paid%20tools/t_3_fast_stone_capture.dita" type="task"><?ditaot usertext?>FastStone Capture</xref></li>
+            </ul>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Free tools:</b></p>
+            <ul class="- topic/ul " id="ul_wgn_swb_ltb">
+                <li class="- topic/li "><xref class="- topic/xref " format="dita" href="Useful%20tools/Free%20tools/t_1_snipping_tool.dita" type="task"><?ditaot usertext?>Snipping Tool</xref></li>
+                <li class="- topic/li "><xref class="- topic/xref " format="dita" href="Useful%20tools/Free%20tools/t_2_jing.dita" type="task"><?ditaot usertext?>Jing</xref></li>
+                <li class="- topic/li "><xref class="- topic/xref " format="dita" href="Useful%20tools/Free%20tools/t_3_skitch.dita" type="task"><?ditaot usertext?>Skitch</xref></li>
+            </ul>
+        </context>
+    </taskbody>
+</task>

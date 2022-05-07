@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_my_first_task">
+    <title>Terminology</title>
+    <shortdesc>In documentation, we recognize screenshots which are pictures of a computer screen,
+        or schematic drawings as various diagrams and charts. Learn which names are correct and can
+        be used in your instruction.</shortdesc>
+    <taskbody>
+        <context>
+            <p>In documentation, we recognize <b>screenshots</b> which are pictures of a computer
+                screen, or schematic <b>drawings</b> as various diagrams and charts (UML, ERD,
+                flowcharts, …). Both types have some quality requirements in common.</p>
+            <p>It is better to say <b>screenshot</b> because <b>printscreen</b> is the name of a key
+                on the computer keyboard or the full screen view.</p>
+            <p>Other names for picture are <b>image</b> and <b>figure</b>. They are usually no
+                difference, and all three can be used interchangeably. However, for example, in
+                reStructuredText, image is a simple picture, while figure has a caption, can be
+                numbered and is generally suitable for more formal books (e.g., “Figure 2.5: Anatomy
+                of the system service”).</p>
+        </context>
+    </taskbody>
+</task>

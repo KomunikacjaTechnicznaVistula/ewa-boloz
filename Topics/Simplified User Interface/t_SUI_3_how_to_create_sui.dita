@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_SUI_3_how_to_create_sui">
+    <title> How to create SUI?</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>Creating a simplified user interface (SUI) graphic is easier than you think. The best
+                way is to begin with a screenshot and then transform it. To do this, you need screen
+                capture and image editing software. I use Snagit in my daily work, as it has both of
+                these functions. Additionally, it also has Auto Simplify feature that recognizes
+                shapes and text and then automatically covers them with the themed elements.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Capture a screenshot of the user interface you want to turn into a SUI graphic
+                    and open it in the chosen editor.</cmd>
+            </step>
+            <step>
+                <cmd>Crop the screenshot to the dimensions of your desired output. </cmd>
+            </step>
+            <step>
+                <cmd>Cover up and remove visual noise like unrelated text, menus, buttons, or tool
+                    tips to reduce the complexity of the image and focus attention on the important
+                    parts.</cmd>
+                <info>
+                    <note id="note_usf_2n5_ktb" type="tip">Use the color palette which works with
+                        your interface.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Save your file as a .png to be used in your documentation.</cmd>
+                <info>
+                    <note id="note_sj1_1n5_ktb" type="tip">It is also recommended to save your final
+                        image as a project file type. It allows you to reopen the project to edit
+                        and adjust the image later on. This makes updating your image easy so you
+                        won’t need to recreate your SUI graphic every time.</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

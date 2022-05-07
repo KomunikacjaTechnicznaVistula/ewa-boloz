@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_think_about_1_what_is_pii">
+    <title> What is PII?</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>Personally Identifiable Information (PII) is any representation of information that
+                permits the identity of an individual to whom the information applies to be
+                reasonably inferred by either direct or indirect means.</p>
+            <p><b>The following basic guidelines apply to classifying data as PII:</b><ul
+                    id="ul_djr_1k5_ktb">
+                    <li>An individual's name, legal customer name, email address, mailing address,
+                        or telephone number, either alone or in combination</li>
+                    <li>Any information that is combined with PII or can be linked to PII with a
+                        reasonable level of confidence based on information available </li>
+                    <li>If there is any doubt about whether the information is PII, you should treat
+                        the data as PII until the data is re-classified by your company</li>
+                    <li>IP addresses, unique cookie or device ID and unique account identifiers, and
+                        any information your company classifies as personal identifiable data</li>
+                </ul></p>
+        </context>
+    </taskbody>
+</task>

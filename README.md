@@ -1,1 +1,1 @@
-# ewa-boloz
+# Screenshots-best-practices

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_useful_tools_free_and_paid">
+    <title>Useful tools</title>
+    <shortdesc>With good screenshot software, it is easy to take screenshot and has built-in editor
+        for basic operations like cropping, drawing arrows, adding shapes and texts etc. Find a
+        proper screenshot tool for yourself.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Good screenshot software is an essential tech writer’s tool. With good screenshot
+                software, it is easy to take screenshot and has built-in editor for basic operations
+                like cropping, drawing arrows, adding shapes and texts etc. </p>
+            <p>There are several screen capture tools that are available in the market, which in
+                turn will help you to take a screenshot of the entire desktop or screen. These tools
+                may vary in features such as screenshot size, quality, supported operating system,
+                file format types, etc. You can choose from <xref
+                    href="Useful%20tools/Free%20tools/t_useful%20tools_free.dita" format="dita"
+                    >free</xref> or <xref
+                    href="Useful%20tools/Paid%20tools/t_useful%20tools_paid.dita" format="dita"
+                    >paid</xref> tools</p>
+        </context>
+    </taskbody>
+</task>

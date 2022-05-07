@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_2_jing">
+    <title>Jing</title>
+    <shortdesc/>
+    <taskbody>
+        <context id="context_vns_frb_ltb">
+            <p><xref href="https://www.techsmith.com/jing-tool.html" format="html" scope="external"
+                    >Jing</xref> is a screen capture tool provided by a software company named
+                TechSmith. The captured images are directly shared on screencast.com and they
+                provide the URL to copy/paste the images as per the user’s choice. It also allows
+                the user to capture video of your screen.</p>
+            <p>Due to the ease of use and free software, it is a favorite tool in the market.</p>
+            <p><b>Key Features:</b></p>
+            <ul id="ul_g3n_dsb_ltb">
+                <li>Jing is a free software to install on your PC.</li>
+                <li>It is available for Windows and Mac Operating Systems.</li>
+                <li>Jing allows a user to share screen capture images very quickly.</li>
+                <li>It is easy to use and has a user-friendly user interface.</li>
+                <li>It allows uploading images and URL to the social media sites like YouTube,
+                    Flickr etc.</li>
+                <li>Jing Pro software removes the brand name from the images and provides additional
+                    features.</li>
+            </ul>
+        </context>
+    </taskbody>
+</task>

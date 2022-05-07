@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_1_snipping_tool">
+    <title>Snipping Tool</title>
+    <shortdesc/>
+    <taskbody>
+        <context id="context_vns_frb_ltb">
+            <p>Snipping tool is a program which is part of Windows Vista and above versions.
+                Snipping Tool allows you to take a screenshot of your screen. It can be delayed for
+                a few seconds while capturing the screen in case of hover. It allows the user to
+                capture the whole screen or user-specified area in a rectangular form.</p>
+            <p>Snipping tool allows the user to add notes to the screenshot.</p>
+            <p><b>Key Features:</b></p>
+            <ul id="ul_est_hrb_ltb">
+                <li>Snipping Tool is a default tool on Windows PC.</li>
+                <li>It is a free and easy to use tool which comes with the Windows Operating
+                    System.</li>
+                <li>A user can edit these snapshots using a colored pen, highlighter, etc.</li>
+                <li>Snipping Tool allows a user to write on the screen capture, save it and share
+                    further.</li>
+                <li>Captured images can be stored in PNG, GIF, and JPEG format.</li>
+                <li>After capturing the screen, it automatically gets copied and it can be further
+                    pastes as required.</li>
+                <li>It has 4 types of modes to capture the screen – Free-form Snip, Rectangular
+                    Snip, Window Snip, and Full-screen Snip.</li>
+            </ul>
+        </context>
+    </taskbody>
+</task>

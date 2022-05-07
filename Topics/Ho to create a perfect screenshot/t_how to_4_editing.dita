@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_my_seventh_task">
+    <title>Editing</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>&#9989; Crop screenshots to show the relevant information. Don't include the full
+                window if you just want to show a single button or menu item. Cropping helps the
+                reader focus on the information that you want to convey in the screenshot, and it
+                can help future-proof the screenshot if other parts of the UI change.<simpletable
+                    frame="none" relcolwidth="1* 1*" id="simpletable_gm5_3bv_ktb">
+                    <sthead>
+                        <stentry>many extra details</stentry>
+                        <stentry>what we really needed</stentry>
+                    </sthead>
+                    <strow>
+                        <stentry>
+                            <image placement="break" href="../../Images/background_noise_1.png"
+                                width="550" align="left" id="image_ey5_kbv_ktb">
+                                <alt/>
+                            </image>
+                        </stentry>
+                        <stentry>
+                            <image placement="break" href="../../Images/background_noise_2.png"
+                                width="550" align="left" id="image_f1x_lbv_ktb">
+                                <alt/>
+                            </image>
+                        </stentry>
+                    </strow>
+                    <strow/>
+                </simpletable><note id="note_tsd_mhz_htb" type="tip">It is always possible to add
+                    some graphics to draw attention to the pop-up window, but you need to think, if
+                    the other parts of the screenshot are really needed. Remember also that:<ul
+                        id="ul_cyt_mhz_htb">
+                        <li>fullscreen images are usually pretty heavy in terms of the file size,
+                            traffic and loading time</li>
+                        <li>small elements will hardly be visible as such screenshots need to be
+                            resized to fit in the text</li>
+                        <li>fullscreen image content is more difficult to control - there's a higher
+                            possibility of accidentally leaving some PII in the picture</li>
+                    </ul></note></p>
+            <p>&#9989; Try to do not scale the image too much afterward. But if you must, avoid the
+                dreaded pixelation. Try resizing your picture or screenshot in an image editing
+                program. Keep the same ratio of width to height, and then add it back into your
+                document or presentation.</p>
+            <p>&#9989; If you need a big, full-size screenshot, try to resize the window, before you
+                take it. This is especially important for mobile visitors of your documentation. It
+                is recommend to decide upon the max width for all the images.<simpletable
+                    frame="none" relcolwidth="1* 1*" id="simpletable_vdc_ddv_ktb">
+                    <sthead>
+                        <stentry>small, not visible elements</stentry>
+                        <stentry>resized window</stentry>
+                    </sthead>
+                    <strow>
+                        <stentry>
+                            <image placement="break" href="../../Images/full_screen_1.png"
+                                width="550" align="left" id="image_wdc_ddv_ktb">
+                                <alt/>
+                            </image>
+                        </stentry>
+                        <stentry>
+                            <image placement="break" href="../../Images/full_screen_2.png"
+                                width="550" align="left" id="image_xdc_ddv_ktb">
+                                <alt/>
+                            </image>
+                        </stentry>
+                    </strow>
+                    <strow/>
+                </simpletable></p>
+            <p>&#9989; Figure out precisely what you are doing the screenshots for, and capture just
+                the details you need. Take some time to make sure that no UI element will be left
+                outside the frame if it is of importance. A user should understand where the element
+                in question is located in the UI to be able to find it.<simpletable frame="none"
+                    relcolwidth="1* 1*" id="simpletable_isf_3dv_ktb">
+                    <sthead>
+                        <stentry>impossible to understand what tab is opened </stentry>
+                        <stentry>tabs are visible</stentry>
+                    </sthead>
+                    <strow>
+                        <stentry>
+                            <image placement="break" href="../../Images/screenshot_context_1.png"
+                                width="550" align="left" id="image_jsf_3dv_ktb">
+                                <alt/>
+                            </image>
+                        </stentry>
+                        <stentry>
+                            <image placement="break" href="../../Images/screenshot_context_2.png"
+                                width="550" align="left" id="image_ksf_3dv_ktb">
+                                <alt/>
+                            </image>
+                        </stentry>
+                    </strow>
+                    <strow/>
+                </simpletable></p>
+            <p>&#9989; Do not use effects like shadow, borders, etc. They usually look ugly, cheap,
+                and generally don’t fit well with documentation and books. The trouble with shadow
+                effect is they look good only on a particular background.</p>
+            <p>&#9989; If possible, use a transparent background, because you don’t know which
+                background will have your reader. Docs are outputted to various formats - HTML, PDF,
+                EPUB - with various backgrounds.</p>
+            <p>&#9989; Use a consistent style of screenshots with enhancements (like callouts, text)
+                and drawings - same font, size, colors, design, etc.</p>
+            <p>&#9989; Use the same screenshot tool, app version, browser, environment, etc. across
+                your docs and team of tech writers.</p>
+        </context>
+    </taskbody>
+</task>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_my_third_task">
+    <title>Size</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <ul>
+                <li> Don't make your image too small. It's fine for an image to take up the full
+                    width of a page. </li>
+                <li> Screenshots at full resolution often take up too much space on the page, so you
+                    may have to resize them. </li>
+                <li> In general, don't use an image that's wider than the column it appears in. </li>
+                <li> Consider how the image will look when printed out. </li>
+            </ul>
+        </context>
+    </taskbody>
+</task>

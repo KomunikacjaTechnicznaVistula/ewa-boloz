@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_my_fourth_task">
+    <title>Format</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <ul id="ul_ur3_zy4_ltb">
+                <li>When saving your screenshots, choose the PNG format over JPEG. The latter is a
+                    compressed file format, while PNG allows lossless compression hence more legible
+                    text and crisp lines.</li>
+                <li>For diagrams (architectural drawings, flow diagrams, and so on, as distinct from
+                    screenshots), use SVG files if possible because SVGs stay sharp when you zoom in
+                    on the image. If you don't have an SVG file, then save your image as a PNG file
+                    unless you have a good reason to use a different format.</li>
+                <li> If you are adding some graphic elements to your screenshots, it is a good
+                    practice to keep the original pictures to edit them easily.</li>
+            </ul>
+        </context>
+    </taskbody>
+</task>

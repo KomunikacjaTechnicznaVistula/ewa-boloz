@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_think_about_privacy">
+    <title>Think about privacy</title>
+    <shortdesc>You often need to take a screenshot of a page that contains confidential information
+        such as account identifications, income data or personal info. Make sure to mask, modify, or
+        remove any personal identifiers, passwords, logins, or other information that could
+        compromise security.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Еven when we take a screenshot to send it to a friend, we have to be aware of what we
+                are doing to avoid awkward situations like showing people too many opened browser
+                tabs, or how your music player is stuck on the new One Direction album. See, even
+                then we have privacy concerns. The situation gets more serious when taking
+                screenshots is part of your job, and revealing some sensitive information could harm
+                the business or its reputation.</p>
+            <p>You often need to take a screenshot of a page that contains confidential information
+                such as account identifications, income data or personal info. Make sure to mask,
+                modify, or remove any personal identifiers, passwords, logins, or other information
+                that could compromise security.</p>
+            <p>Basically, all information considered PII or SPII should be hidden. If a source
+                screenshot includes PII/SPII, hide it with a solid-color overlay with 100% opacity.
+                Don't rely on blurs, mosaic effects, or similar image-processing effects to obscure
+                PII. They may look better on your screenshot; however such effects can be reversed
+                to reveal the original information.</p>
+            <p>If you're exporting an image to a format that can include information on separate
+                layers (for example, PDF or TIFF), flatten the image on export.</p>
+            <p/>
+            <image placement="break"
+                href="../Images/Different-types-of-PII-or-personally-identifiable-information.png"
+                width="500" align="left" id="image_mrm_knv_ktb"/>
+        </context>
+    </taskbody>
+</task>

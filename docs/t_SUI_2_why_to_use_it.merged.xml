@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/ashes-with-colors.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/notes.css'?>
+<?workdir /C:\Users\Filip\Desktop\cwiczenie\ewa-boloz\temp\oxygen_dita_temp\Topics\Simplified User Interface?><?workdir-uri file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/temp/oxygen_dita_temp/Topics/Simplified%20User%20Interface/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="SUI_1_why_to_use_it" specializations="@props/deliveryTarget" xtrc="task:1;3:32" xtrf="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/Topics/Simplified%20User%20Interface/t_SUI_2_why_to_use_it.dita" xml:lang="en">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Why to use it? </ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context "><p class="- topic/p "/><sectiondiv class="- topic/sectiondiv "><b class="+ topic/ph hi-d/b ">Better user experience</b><p class="- topic/p ">When you reduce the amount of
+                    distractions for your audience, they are better able to focus their attention on
+                    what is important. In the below example, only a single menu item is shown so as
+                    to direct the user’s attention to something specific.<image align="left" class="- topic/image " href="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/../../Images/user_interface_3.png" id="image_crr_43v_ktb" placement="break" width="500">
+                        <alt class="- topic/alt ">interface</alt>
+                    </image></p><p class="- topic/p ">Using a simplified user interface in help documentation can aid
+                    in user success by giving them <b class="+ topic/ph hi-d/b ">only </b>the information they must have in
+                    order to be successful, increasing their success and satisfaction with a
+                    product.</p></sectiondiv><sectiondiv class="- topic/sectiondiv "><b class="+ topic/ph hi-d/b ">Keeping content up to date</b><p class="- topic/p ">Keeping
+                    content up to date is one of the biggest challenges faced by technical
+                    communicators today. If we look to software as an example, new features and
+                    functionalities are being added frequently. And with each feature addition to
+                    the user interface, the instructions are at risk of becoming quickly out of
+                    date.</p><p class="- topic/p ">Simplified user interface graphics can play a strategic role in
+                    keeping the documentation updated. The removal of a button or addition of a
+                    feature will easily confuse the user if this change is not reflected in a
+                    screenshot. However, a simplified user interface graphic can often sustain
+                    multiple software versions and updates before needing further updates. The
+                    simplified design is more forgiving to minor interface changes and additions as
+                    it is already an abstract representation of the
+                interface.</p></sectiondiv><b class="+ topic/ph hi-d/b ">Faster content localization</b><p class="- topic/p ">During the
+                localization process, it can be time-consuming and expensive to create screenshots
+                and graphics for each locale. Yet, the localization of onboarding materials and
+                other graphics can be trivial for any organization that wants to be successful
+                internationally.</p><p class="- topic/p ">Most technical writers know the effort it takes to create and
+                manage unique screenshots for each language. In order to simplify this task, you can
+                design the content to use SUI images instead of language-specific screenshots. The
+                same graphic can often be repurposed across multiple languages with little to no
+                adjustment. Additional information or instructions can be conveyed through the sub-
+                or figure text.</p><p class="- topic/p "><b class="+ topic/ph hi-d/b ">polish version</b><image align="left" class="- topic/image " href="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/../../Images/sui_localization_2.png" id="image_ymh_2bx_ktb" placement="break" width="600"/></p><p class="- topic/p "><b class="+ topic/ph hi-d/b ">english version</b><image align="left" class="- topic/image " href="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/../../Images/sui_localization_1.png" id="image_htc_cbx_ktb" placement="break" width="600"/></p><p class="- topic/p "><b class="+ topic/ph hi-d/b ">SUI version</b></p><image align="left" class="- topic/image " href="file:/C:/Users/Filip/Desktop/cwiczenie/ewa-boloz/../../Images/sui_localization_3.png" id="image_gcb_fnv_ktb" placement="break" width="600"/></context>
+    </taskbody>
+</task>
